@@ -1,3 +1,4 @@
+//Write a Java program to print the area and perimeter of a rectangle, circle and square.
 package Lab1;
 
 class Rectangle {

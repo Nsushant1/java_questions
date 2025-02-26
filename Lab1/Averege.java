@@ -1,3 +1,4 @@
+//Write a java program to find the average of 5 numbers.
 package Lab1;
 
 import java.util.Scanner;
